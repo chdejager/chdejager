@@ -10,10 +10,10 @@ My name is Celine. I’m a Master’s student at UChicago in their Financial Mat
 Python • pandas • numpy • scikit-learn • Jupyter • Git • matplotlib
 
 ## 📚 Coursework
-Multivariate Statistical Analysis
-Options: Numerical Methods
-Macro Finance
-Foreign Exchange and Rates
+Multivariate Statistical Analysis  
+Options: Numerical Methods  
+Macro Finance  
+Foreign Exchange and Rates  
 Time-series Analysis for Forecasting and Model Building (PhD)  
 Machine Learning in Finance (Booth)  
 Stochastic Calculus  
